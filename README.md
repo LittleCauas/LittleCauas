@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @yFr1ng
-- 👀 I’m interested in coding as profession
-- ⚡ Fun fact: im cool 😎
+- I’m @yFr1ng
+- I’m interested in coding as profession
 - Currently on school and 16y
