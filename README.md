@@ -1,3 +1,3 @@
-- I’m @yFr1ng
+- I’m @LittleCauas
 - I’m interested in coding as profession
 - Currently on school and 16y
